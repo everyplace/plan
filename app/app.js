@@ -31,6 +31,7 @@ app.get('/', function(req, res){
   res.end();
 });
 app.get('/.plan', routes.markdown);
+app.get('/.project', routes.markdown);
 
 //initiate the app server
 http.createServer(app).listen(app.get('port'), function(){

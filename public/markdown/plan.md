@@ -32,6 +32,8 @@ desk should adjust to your current level of activity automatically.
 
 ##Projects that I have enjoyed thinking about in the past, in alphabetical order
 
+* [**.project**](/.project) Current project in flight.
+
 * **Accessible Glass** *idea* Google Glass resource for accessible applications
 and information.
 
