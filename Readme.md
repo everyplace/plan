@@ -10,6 +10,9 @@
  This project intends on introducing the simplest way for someone to create
  .plan and .project files.
 
+###Example
+[http://erinsparling.com/.plan](http://erinsparling.com/.plan)
+
 ###Relevant Files
 The public interface to this project is the plan and project markdown files.
 Editing these should be all that is necessary for normal operation and updating.
