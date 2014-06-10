@@ -1,6 +1,6 @@
 #.plan file finger emulation
 ##by [Erin Sparling](http://erinsparling.com)
-![codeship status](https://codeship.io/projects/ccef3a00-d257-0131-3606-465b6d0c2955/status)
+![codeship status](https://codeship.io/projects/54001420-d270-0131-0c81-42babe56eca9/status)
 
 [.plan files](http://en.wikipedia.org/wiki/Finger_protocol) are one of the oldest
  methods for easily communicating with the public. A precursor to micro-blogging,
