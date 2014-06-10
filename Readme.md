@@ -23,8 +23,8 @@
 This project was designed to easily be deployed to Heroku with little to no
 configuration. It can be hosted on other environments like Beanstalk, but the
 focus of this walkthrough is Heroku.
-1. Have the Heroku Toolbelt installed for your platform, and a valid account
-1. Familiarize yourself with the Markdown plaintext format
+* Have the Heroku Toolbelt installed for your platform, and a valid account
+* Familiarize yourself with the Markdown plaintext format
 
 ##Configure your environmental variables
 To configure Google Analytics, make sure to set up some environmental variables for the server.
